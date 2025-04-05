@@ -1,4 +1,3 @@
-```markdown
 # Git Survival
 
 This repository documents my journey through a series of Git challenges designed to simulate real-world disasters. Below is a summary of each assignment (1 through 10), including the commands I ran and the final deliverables (commit logs, remote info) from my Git history.
@@ -150,11 +149,6 @@ origin  git@github.com:TarunVuppala/Spoon-Knife.git (push)
 upstream        https://github.com/octocat/Spoon-Knife.git (fetch)
 upstream        https://github.com/octocat/Spoon-Knife.git (push)
 ```
-
----
-
-## Assignment 7
-*(Removed.)*
 
 ---
 
